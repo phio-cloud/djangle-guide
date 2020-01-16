@@ -30,7 +30,7 @@ If you have grasped the basics of Python and want to learn some intermediate con
 
 
 ## Docker
-Multiple systems we have developed rely on Docker to ensure a seamless development process between team members.
+Multiple systems rely on Docker to ensure a seamless development process between team members.
 
 To install Docker on your machine, please follow the instructions [here](https://hub.docker.com/editions/community/docker-ce-desktop-mac).
 This installs both Docker Desktop, and Docker Compose.
@@ -58,4 +58,4 @@ For some fantastic software recommendations, please see [this guide](./software)
 
 
 ## Frameworks
-For documentation on working with Django and Angular frameworks, please follow [this guide].
+For documentation on working with Django and Angular frameworks, please follow [this guide](./frameworks).
